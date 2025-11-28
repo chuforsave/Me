@@ -1,11 +1,11 @@
 # Medical Doctor
 
-## Education
+### Education
 MB;BS (Ibadan)
 
 ### Work Experience
 AGAH Volunteer
 
-#### Skills
+### Skills
 
-##### Projects
+### Projects
